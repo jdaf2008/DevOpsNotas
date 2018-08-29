@@ -1,0 +1,24 @@
+{
+  "name": "devopsnotas",
+  "version": "1.0.0",
+  "description": "Simple Node.js REST API con notas ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdaf2008/DevOpsNotas.git"
+  },
+  "author": "Juan Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdaf2008/DevOpsNotas/issues"
+  },
+  "homepage": "https://github.com/jdaf2008/DevOpsNotas#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
