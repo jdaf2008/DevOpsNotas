@@ -11,7 +11,7 @@ class ActivityRepository {
             [4, new Activity(4, 'Blog', '5.0')]
         ]);
     }
- 
+
     getById(id) {
         return this.activities.get(id);
     }
