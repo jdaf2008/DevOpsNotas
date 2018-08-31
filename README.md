@@ -33,4 +33,4 @@ Su despliegue se realiza con base en contenedores Docker (DevOps) y su imagen se
 206.189.193.69
 
 
-[{"name":"Juan David Arias","tag":"20181195002","activities":[{"id":1,"name":"Taller1","value":"5.0"},{"id":2,"name":"Taller2","value":"5.0"},{"id":3,"name":"Taller3","value":"5.0"},{"id":4,"name":"Blog","value":"5.0"}]}]
+[{"name":"","tag":"","activities":[{"id":1,"name":"Taller1","value":"5.0"},{"id":2,"name":"Taller2","value":"5.0"},{"id":3,"name":"Taller3","value":"5.0"},{"id":4,"name":"Blog","value":"5.0"}]}]
