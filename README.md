@@ -27,3 +27,10 @@ EL servicio se desarrollo con Node js y framework Express
 ### Despliegue
 
 Su despliegue se realiza con base en contenedores Docker (DevOps) y su imagen se construye a partir del DockerFile.
+
+### Estructura del JSON retornado
+
+206.189.193.69
+
+
+[{"name":"Juan David Arias","tag":"20181195002","activities":[{"id":1,"name":"Taller1","value":"5.0"},{"id":2,"name":"Taller2","value":"5.0"},{"id":3,"name":"Taller3","value":"5.0"},{"id":4,"name":"Blog","value":"5.0"}]}]
