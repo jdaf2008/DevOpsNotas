@@ -10,6 +10,6 @@ app.use(bodyParser.json());
 //require('./routes/activityRoutes')(app);
 require('./routes/studentRoutes')(app);
  
-app.listen(3000, () => {
+app.listen(3030, () => {
     console.log("Server is up!");
 });
