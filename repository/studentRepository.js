@@ -17,7 +17,7 @@ class StudentRepository {
         console.log(this.activities);
 
         this.student = new Map([
-            [1, new Student('Juan David Arias', '20181195002', this.activities)]
+            [1, new Student('Barack Obama', '123456789', this.activities)]
         ]);
 
         
